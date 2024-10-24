@@ -36,4 +36,4 @@ Upgrades
 	name:Stronger Floor
 	desc:Makes the floor sturdier for jadons to walk on
 	passive:multiply yield of jadons by 2
-	cost: 100 steps
+	cost:100 steps

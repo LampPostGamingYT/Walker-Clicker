@@ -3,3 +3,11 @@ Let's make a game!
 	by:Lamp
 	desc:Click walkers like Jadon!
 	version:1.0
+CSS
+#game.on 
+{
+    background-size: 100% 100%;
+    image-rendering: pixelated;
+}
+Settings
+	background:https://raw.githubusercontent.com/LampPostGamingYT/Walker-Clicker/refs/heads/main/images/background.jpg

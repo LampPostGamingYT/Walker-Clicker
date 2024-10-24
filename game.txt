@@ -17,7 +17,7 @@ Buildings
 	*jadon|jadons
 		name:Jadon|Jadons
 		desc:Jadon will walk with a walker
-		on tick:yeild 1 step
+		on tick:yield 1 step
 		cost:10 steps
 
 Resources

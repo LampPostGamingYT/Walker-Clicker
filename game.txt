@@ -33,7 +33,7 @@ Buttons
 		icon:https://github.com/LampPostGamingYT/Walker-Clicker/blob/main/images/Walker.png?raw=true
 Upgrades
 	*strongfloor
-	name:Stronger Floor
-	desc:Makes the floor sturdier for jadons to walk on
-	passive:multiply yield of jadons by 2
-	cost:100 step
+		name:Stronger Floor
+		desc:Makes the floor sturdier for jadons to walk on
+		passive:multiply yield of jadons by 2
+		cost:100 steps

@@ -17,3 +17,15 @@ Buildings
 	*jadon|jadons
 		name:Jadon|Jadons
 		desc:Jadon will walk with a walker
+		on tick:yeild 1 step
+		cost:10 steps
+
+Resources
+	*step|steps
+		name:Step|Steps
+
+Buttons
+	*WalkerButton
+		on click:yeild 1 step
+		class:bigButton hasFlares
+		icon:https://github.com/LampPostGamingYT/Walker-Clicker/blob/main/images/Walker.png?raw=true

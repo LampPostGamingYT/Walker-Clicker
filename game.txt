@@ -11,3 +11,4 @@ CSS
 }
 Settings
 	background:https://raw.githubusercontent.com/LampPostGamingYT/Walker-Clicker/refs/heads/main/images/background.jpg
+	stylesheet:stuff/bigBlue.css

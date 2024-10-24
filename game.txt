@@ -19,11 +19,12 @@ Buildings
 		desc:Jadon will walk with a walker
 		on tick:yield 1 step
 		cost:10 steps
-		icon:https://file.garden/ZxrHAe9aojhlnHyP/jadon.png
+		icon:https://file.garden/ZxrHAe9aojhlnHyP/jadonicon.png
 
 Resources
 	*step|steps
 		name:Step|Steps
+		icon:https://github.com/LampPostGamingYT/Walker-Clicker/blob/main/images/WalkerPixelated.png?raw=true
 
 Buttons
 	*WalkerButton

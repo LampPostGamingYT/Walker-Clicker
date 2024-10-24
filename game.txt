@@ -1,0 +1,5 @@
+Let's make a game!
+	name:Walker Clicker
+	by:Lamp
+	desc:Click walkers like Jadon!
+	version:1.0
